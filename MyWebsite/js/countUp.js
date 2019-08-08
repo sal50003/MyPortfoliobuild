@@ -1,0 +1,1 @@
+import { CountUp } from './countUp.min.js';
